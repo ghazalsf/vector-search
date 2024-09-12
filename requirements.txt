@@ -1,0 +1,10 @@
+torch
+torchvision
+matplotlib
+openai-clip
+nmslib
+gradio
+pandas
+pillow
+plotly
+dash
